@@ -1,0 +1,8 @@
+
+#Entidade
+    //regra de negocio na entity
+    //entidate se valida e sempre esta no estado correto   
+    //metados para mudar comportamento    
+    ////Repositorio fica no contexto de dominio
+
+

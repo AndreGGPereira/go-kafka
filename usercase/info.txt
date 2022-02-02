@@ -1,0 +1,6 @@
+//UserCase
+
+camada que serve para transferencia de dados
+de um lado valo para outro
+
+input para output
